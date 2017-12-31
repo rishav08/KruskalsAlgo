@@ -1,16 +1,3 @@
-
-Project #5
-
-Due Dates:  Monday, December 4 at 11:59pm 
-
-Submit:    eLearning
-
-Late Policy:  -10 points per hour late
-
-Instructions: This is an individual assignment.  All work should be your own.
-
-
-
 Objective:
 
      Work with graphs and Kruskals algorithm for minimum spanning trees.
@@ -34,7 +21,3 @@ Details:
      You should output each edge of your minimum spanning tree as the names of the two
      cities and the distance between them.  You should also print the sum of all of the
      distances in the tree.
-
-
-Submit to eLearning:
-     Kruskals.java
